@@ -1,0 +1,18 @@
+.post-form{padding-top:40px}
+
+.post-form h1 .post-home{position:relative; margin-top: -5px; margin-right: 10px; display:inline-block;background:url(img/post-home.png);width:32px;height:32px;vertical-align:middle}
+
+.post-form__pubkey{padding-bottom:6px}
+
+.post-form__pubkey-content{}
+.post-form__pubkey-content p{padding:0 0 9px;margin:0}
+.post-form__pubkey_error{color:#333;font:12px/18px Arial,Helvetica;background-color:#FFEBE8;border:1px solid #C00;padding:9px 14px;width:728px;margin:4px 0 10px;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;-moz-background-clip:padding;-webkit-background-clip:padding-box;background-clip:padding-box;display:none}
+.post-form__heading .button-secondary {
+	vertical-align: middle;
+	font-weight: normal;
+}
+.post-section {
+	margin-bottom: 20px;
+}
+
+.post-section ul {margin-top: 0; margin-bottom: 20px}
